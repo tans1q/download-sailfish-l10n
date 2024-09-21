@@ -1,0 +1,9 @@
+requests
+bs4
+typer
+pandas
+lxml
+fastparquet
+fasttext
+huggingface_hub
+numpy==1.26.4
